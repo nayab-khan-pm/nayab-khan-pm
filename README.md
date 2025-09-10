@@ -1,16 +1,18 @@
-## Hi there 👋
+# Nayab Khan — Project Management Portfolio
 
-<!--
-**nayab-khan-pm/nayab-khan-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PMP® | CSM — Project Manager with 6+ years of experience in EdTech & Digital Solutions.  
+Currently pivoting into SaaS & Product-based project management with a strong foundation in Agile, automation, and cost optimization.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Live Portfolio
+➡️ [Visit my portfolio website](https://nayab-khan-pm.github.io/nayab-khan-pm/)  
+
+---
+
+## 📂 Featured Case Studies
+- **[EOD & Daily Task Tracking Automation](https://nayab-khan-pm.github.io/nayab-khan-pm/case-studies/eod-automation.html)**  
+  Automated daily updates for 28-member team — saved ~46h/week, improved blocker resolution.
+
+- **[Cost Optimization in Grading Operations — upGrad](https://nayab-khan-pm.github.io/nayab-khan-pm/case-studies/upgrad.html)**  
+  Negotiated grader onboarding & pricing models, achieving ~41% cost savin
