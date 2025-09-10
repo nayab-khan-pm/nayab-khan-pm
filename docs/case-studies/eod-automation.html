@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>EOD & Daily Task Tracking Automation — Nayab Khan</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body{font-family:Inter,system-ui,Arial,Helvetica,sans-serif;max-width:900px;margin:40px auto;color:#111;line-height:1.6;padding:20px}
+    h1{font-size:28px;margin-bottom:6px}
+    h2{font-size:20px;margin-top:18px}
+    .meta{color:#555;margin-bottom:12px}
+    blockquote{color:#333;background:#f7f7f7;padding:12px;border-left:4px solid #ddd}
+    img{max-width:100%;border:1px solid #eee;border-radius:6px;margin-top:10px}
+    footer{margin-top:30px;color:#666;font-size:14px}
+  </style>
+</head>
+<body>
+  <h1>EOD & Daily Task Tracking Automation — Internal Ops</h1>
+  <p class="meta"><strong>Role:</strong> Project Manager / Automation Lead · <strong>Duration:</strong> Jun 2025 · <strong>Team:</strong> 28 contributors</p>
+
+  <h2>Context / Challenge</h2>
+  <p>Daily progress updates were collected manually and inconsistently across the team. PMs spent significant time compiling status updates, which delayed visibility and left less time for removing blockers.</p>
+
+  <h2>Approach / Execution</h2>
+  <ul>
+    <li>Built a Google Form for team EOD updates and linked responses to a central Google Sheet.</li>
+    <li>Developed Google Apps Script to automatically consolidate daily responses, generate a summary report, and email it to PMs/stakeholders.</li>
+    <li>Standardized form fields (status, blockers, next-day plan, hours) to improve consistency and allow automated aggregation.</li>
+    <li>Created a manager dashboard in Google Sheets to surface daily trends and blockers.</li>
+  </ul>
+
+  <h2>Results / Impact</h2>
+  <ul>
+    <li>Eliminated manual status compilation and saved approximately <strong>2,800 minutes/week → 46 hours 40 minutes/week</strong> of collective time.</li>
+    <li>Reduced redundant EOD status meetings and converted remaining time into focused sessions for removing impediments.</li>
+    <li>Faster stakeholder visibility — PMs acted on blockers earlier, improving throughput.</li>
+  </ul>
+
+  <blockquote>“Saved end-of-the-day status update meetings and turned those into more productive sessions to address team concerns and remove impediments.”</blockquote>
+
+  <h2>Screenshot — Apps Script (automation)</h2>
+  <p>Below: the Apps Script used to generate daily templates and remind team members.</p>
+  <img src="/assets/eod-script.png" alt="EOD Automation Script screenshot" />
+
+  <h2>Future-fit / Transferable Insight</h2>
+  <p>Small automation wins (Forms + Apps Script) create disproportionate capacity gains. This pattern—standardize input, automate aggregation, surface insights—is directly transferable to SaaS teams to speed decision-making and increase developer/productivity time.</p>
+
+  <h2>Lessons learned</h2>
+  <ul>
+    <li>Standardization (one consistent form) is essential before automating aggregation.</li>
+    <li>Start small, measure time saved, then iterate (add KPIs or channels).</li>
+    <li>A visible dashboard helps turn asynchronous updates into synchronous, high-value conversations.</li>
+  </ul>
+
+  <footer>
+    <small>Open to Product/PM roles — let’s connect (LinkedIn).</small>
+  </footer>
+</body>
+</html>
