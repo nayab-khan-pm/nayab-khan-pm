@@ -18,6 +18,7 @@ Daily progress updates were collected manually and inconsistently across the tea
 - Eliminated manual status compilation and saved approximately **2,800 minutes/week → 46 hours 40 minutes/week** of collective time.  
 - Reduced redundant EOD status meetings and converted remaining time into focused sessions for removing impediments.  
 - Faster stakeholder visibility — PMs could act on blockers earlier, improving throughput.
+- ![EOD Automation Script](../assets/eod-script.png)
 
 **Stakeholder feedback:**  
 > “Saved end-of-the-day status update meetings and turned those into more productive sessions to address team concerns and remove impediments.”
